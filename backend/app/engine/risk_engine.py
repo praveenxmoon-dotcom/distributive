@@ -8,7 +8,7 @@ this for a validated ML prediction.
 """
 from __future__ import annotations
 
-from .models import (
+from ..models import (
     Disruption,
     DisruptionSeverity,
     RiskFactor,
